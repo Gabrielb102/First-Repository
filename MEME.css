@@ -35,7 +35,7 @@ input {
 
 #currentmeme {
     display: inline-block;
-    background-color: darkslategray;
+    background-color: darkorange;
     width: 50%;
     height: 420px;
     width: 420px;
@@ -54,7 +54,7 @@ input {
 }
 
 .placeholder {
-    color: seagreen;
+    color: yellow;
     transform: translateY(100px);
     line-height: 100px;
     margin: auto;
